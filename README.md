@@ -6,7 +6,7 @@ Screenshot
 Employee Login
 
 
-![Dragonfly Employee Login screen](screenshots/employee-login.png) 
+![Employee Login Screenshot](Screenshot%202026-11-18%20225338.png) 
 
 
 Features
