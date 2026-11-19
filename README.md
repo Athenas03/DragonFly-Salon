@@ -4,7 +4,11 @@ Dragonfly is a team-developed desktop application created for a Software Enginee
 This project gave our team experience collaborating on a shared codebase, integrating individual features, and working with HTTP requests and JSON data.
 Screenshot
 Employee Login
+
+
 ![Dragonfly Employee Login screen](screenshots/employee-login.png) 
+
+
 Features
 - Employee Login — authenticates employees through the API and handles login responses.
 - Calendar — calendar-related scheduling functionality.
